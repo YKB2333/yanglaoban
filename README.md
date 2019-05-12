@@ -62,7 +62,7 @@
     
     
    ### 项目结构
-    
+    ```js
 |-- undefined
     |-- .gitignore
     |-- mddir.js
@@ -204,7 +204,7 @@
         |-- store
             |-- index.js
             
-            
+          ```  
    ## 演示地址 
       * http://47.98.140.212:1811/
       
