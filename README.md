@@ -62,8 +62,8 @@
     
     
    ### 项目结构
-    ```js
-|-- undefined
+  
+  ```js|-- undefined
     |-- .gitignore
     |-- mddir.js
     |-- package-lock.json
@@ -202,9 +202,9 @@
         |   |-- package-lock.json
         |   |-- package.json
         |-- store
-            |-- index.js
+            |-- index.js```js  
             
-          ```  
+
    ## 演示地址 
       * http://47.98.140.212:1811/
       
